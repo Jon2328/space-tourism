@@ -1,0 +1,16 @@
+[
+  {
+    "name": "dest",
+    "path": "/dest",
+    "component": "C:\\\\proj\\\\space-tourism-website-main\\\\pages\\\\dest.vue",
+    "chunkName": "pages/dest",
+    "_name": "_08511e40"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\proj\\\\space-tourism-website-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_479952f8"
+  }
+]
