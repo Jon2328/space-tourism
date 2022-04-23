@@ -1,10 +1,24 @@
 [
   {
+    "name": "crew",
+    "path": "/crew",
+    "component": "C:\\\\proj\\\\space-tourism-website-main\\\\pages\\\\crew.vue",
+    "chunkName": "pages/crew",
+    "_name": "_2bedb41f"
+  },
+  {
     "name": "dest",
     "path": "/dest",
     "component": "C:\\\\proj\\\\space-tourism-website-main\\\\pages\\\\dest.vue",
     "chunkName": "pages/dest",
     "_name": "_08511e40"
+  },
+  {
+    "name": "tech",
+    "path": "/tech",
+    "component": "C:\\\\proj\\\\space-tourism-website-main\\\\pages\\\\tech.vue",
+    "chunkName": "pages/tech",
+    "_name": "_5df39ad4"
   },
   {
     "name": "index",

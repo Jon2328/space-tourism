@@ -4,3 +4,13 @@
   box-sizing: border-box
   margin: 0px
   color: #ffffff
+
+.desktop
+  +tablet
+    display: none
+  +mobile
+    display: none
+
+.non-desktop
+  +desktop
+    display: none
